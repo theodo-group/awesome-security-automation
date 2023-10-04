@@ -1,4 +1,4 @@
-# awesome-security-automation
+# Awesome Security Automation
 
 Great links to automate your cybersecurity checks.
 
