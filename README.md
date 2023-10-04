@@ -24,3 +24,4 @@ Great links to automate your cybersecurity checks.
 
 - [sls-mentor](https://github.com/sls-mentor/sls-mentor): It is a tool that analyzes the configuration of your AWS resources against best practice rules. It also helps with other metrics than security, such as Performance or Cost.
 - [Yatas](https://github.com/padok-team/yatas-aws): It helps you create a secure AWS environment without too much hassle.
+- [cognito scanner](https://github.com/padok-team/cognito-scanner): Check that your cognito configuration is not vulnerable to standard attacks
