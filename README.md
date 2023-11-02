@@ -20,6 +20,11 @@ Great links to automate your cybersecurity checks.
 
 - [git-secret-scanner](https://github.com/padok-team/git-secret-scanner): This tool aims to find secrets and credentials in git repositories owned by Organizations or Groups using the best parts of TruffleHog & Gitleaks libraries.
 
+## Awesome CVEs tools
+
+- [Renovate](https://github.com/renovatebot/renovate): This tool creates Pull Requests to update your vulnerable dependencies and gives you a percentage of confidence about breaking changes.
+- [Dependat-bot](https://github.com/dependabot/dependabot-core): Just like Renovate, this tool creates Pull Requests to update your vulnerable dependencies. It works better with Github than with other platforms.
+
 ## Awesome AWS security tools
 
 - [sls-mentor](https://github.com/sls-mentor/sls-mentor): It is a tool that analyzes the configuration of your AWS resources against best practice rules. It also helps with other metrics than security, such as Performance or Cost.
