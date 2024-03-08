@@ -19,6 +19,8 @@ Great links to automate your cybersecurity checks.
 ## Awesome secret leak tools
 
 - [git-secret-scanner](https://github.com/padok-team/git-secret-scanner): This tool aims to find secrets and credentials in git repositories owned by Organizations or Groups using the best parts of TruffleHog & Gitleaks libraries.
+- [gitlab-secrets](https://github.com/RichardoC/gitlab-secrets): Even after a force-push to delete secrets unwanted in the code, those commits still exist even if they aren't referenced. This tool aims to find those secrets
+- [youtube-video-scanner](https://gitlab.com/gitlab-com/gl-security/security-research/video-scanner/youtube-video-scanner): This tool detects secrets shown during videos by analizing the frames.
 
 ## Awesome CVEs tools
 
