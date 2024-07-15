@@ -6,6 +6,7 @@ Great links to automate your cybersecurity checks.
 
 - [Semgrep](https://github.com/returntocorp/semgrep): Easy tool to run on your code to detect usual security vulnerabilities.
 - [Bearer](https://github.com/Bearer/bearer): A developer-first code security & privacy scanner that seamlessly integrates into your entire development (Local, CI/CD, PR/MR).
+- [Red Hat's Dependency Analytics (RHDA)](https://marketplace.visualstudio.com/items?itemName=redhat.fabric8-analytics): A Visual Studio Code extension to find CVE in your code's dependencies. Works with Maven, Pip, Npm and Go mod.
 
 ## Awesome Access Control Check
 
