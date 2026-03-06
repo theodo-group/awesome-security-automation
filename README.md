@@ -28,6 +28,10 @@ Great links to automate your cybersecurity checks.
 - [Renovate](https://github.com/renovatebot/renovate): This tool creates Pull Requests to update your vulnerable dependencies and gives you a percentage of confidence about breaking changes.
 - [Dependat-bot](https://github.com/dependabot/dependabot-core): Just like Renovate, this tool creates Pull Requests to update your vulnerable dependencies. It works better with Github than with other platforms.
 
+## Awesome Security Assessment tools
+
+- [Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) - Security assessment agent built with LangChain, supporting RAG, local LLMs (Ollama), and MCP integration.
+
 ## Awesome AWS security tools
 
 - [sls-mentor](https://github.com/sls-mentor/sls-mentor): It is a tool that analyzes the configuration of your AWS resources against best practice rules. It also helps with other metrics than security, such as Performance or Cost.
