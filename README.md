@@ -2,6 +2,8 @@
 
 Great links to automate your cybersecurity checks.
 
+- [Arthor-Agent](https://github.com/arthurpanhku/Arthor-Agent) - Security assessment agent built with LangChain, supporting RAG, local LLMs (Ollama), and MCP integration.
+
 ## Awesome Code Analysis
 
 - [Semgrep](https://github.com/returntocorp/semgrep): Easy tool to run on your code to detect usual security vulnerabilities.
